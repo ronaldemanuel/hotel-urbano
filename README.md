@@ -1,16 +1,17 @@
 # hotel_urbano
 
-A new Flutter project.
+Projeto de aprendizagem da disciplina de Programação Móvel.
 
-## Getting Started
+[Ver repositório princiapal](https://github.com/tarsis/aula_914)
 
-This project is a starting point for a Flutter application.
+## 🚀 Vamos começar
 
-A few resources to get you started if this is your first Flutter project:
+Esse projeto foi feito usando Flutter.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+**Para rodá-lo, você deverá ter o Flutter instalado na sua máquina**
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Clone o repositório do projeto `https://github.com/ronaldemanuel/hotel-urbano`
+- Dentro do diretório, execute o comando `flutter run`
+
+Para saber mais acesse a [página oficial da ferramenta](https://flutter.dev/).
+
